@@ -1,0 +1,6 @@
+/* styles.css */
+img {
+    float: right; /* Esto alinea la imagen a la derecha */
+    /* También puedes ajustar márgenes para separar la imagen del contenido circundante */
+    margin-left: 10px; /* Agrega un margen izquierdo para separar la imagen del texto */
+}
